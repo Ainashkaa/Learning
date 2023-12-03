@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3878CCF8-91BB-4167-BD25-C1D385FE6F2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "127F01BC-77CA-4D14-AA48-4D65C5201D5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learning/ViewModels/AppetizerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getAppetizers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "127F01BC-77CA-4D14-AA48-4D65C5201D5F - 3c0a217d1d43418e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learning.AppetizerViewModel.getAppetizers() -&gt; ()"
+                  moduleName = "Learning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainash_t/workspace/Learning/Learning/ViewModels/AppetizerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "127F01BC-77CA-4D14-AA48-4D65C5201D5F - 992fd4d3c848ef4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Learning.Appetizer&gt;, Learning.APErrors&gt;) -&gt; () in Learning.AppetizerViewModel.getAppetizers() -&gt; ()"
+                  moduleName = "Learning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainash_t/workspace/Learning/Learning/ViewModels/AppetizerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
